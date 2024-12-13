@@ -1,0 +1,462 @@
+
+    head{
+        position: fixed; top:0px;
+    }
+    marquee {
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 100;
+        font-style: italic;
+        color: #f6f6f6;
+        font-size:40px;
+        
+    }
+    .footer{
+        background-color: #7161ef;
+        padding: 30px;
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 200;
+        font-style: normal;
+        color: #f6f6f6;
+        font-size:10px;
+        width: auto;
+        text-wrap: pretty;
+    }
+
+    bold{
+       
+        font-family: "Dela Gothic One", serif;
+        font-weight: 400;
+        font-size: 60px;
+        padding-top: 200px;
+        color:#7161ef;
+    }
+
+    .bckgrnd {
+        position: fixed;
+        top: 40;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover; 
+        z-index: -1;
+        
+    }
+
+    h {
+        font-family: "Dela Gothic One", sans-serif;
+        font-optical-sizing: auto;
+        
+        font-style: normal;
+        font-size: 1000%;
+        line-height: 0px;
+        padding-bottom: 20px;
+        color: #f6f6f6;
+        text-align: center;
+    }
+
+    h1{
+        font-family: "Dela Gothic One", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 60px;
+        padding-top: 10px;
+        color:#7161ef;
+        
+    }
+
+    h0{
+        font-family: "Dela Gothic One", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 20px;
+        padding-right: 10px;
+        color:#7161ef;
+        
+    }
+    norm{
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        color: #3c3c3c;
+        
+        
+    }
+    norm1{
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 12px;
+        color:#f6f6f6;
+  
+        
+        
+    }
+    .text {
+        width:auto;
+        margin-right: 60px;
+        padding-LEFT: 40px;
+        text-align: justify;
+        padding-TOP: 160px;
+        padding-bottom: 100px;
+        color: #3c3c3c;
+    }
+
+    sub{
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        line-height: 40px;
+        font-size: 25px;
+        font-weight: 400;
+        font-style: normal;
+        color: #3c3c3c;
+    }
+    .Headbar {
+        position: fixed; top: 0px;
+        height: auto;
+        width: 100%;
+        background-color: #7161ef;
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-size: 20px;
+        font-weight: 100;
+        font-style: normal;
+        color: white;
+        
+    }
+
+.lot{
+    padding-top:  350px;
+}
+.cta{
+    padding-top: 20px;
+}
+    #main {
+        width: 100%;
+        height: 70px;
+
+        display: flex;
+        
+        
+    }
+
+        #main div {
+            padding: 20px;
+            flex: 1 1 auto;
+            
+        }
+        .others{
+        
+            width: auto;
+            display: flex;
+            font-family: Inter;
+            font-size: auto;
+            justify-content: center;
+            align-items: center;
+            color: white;  
+        
+             
+        }
+        
+        a{color: inherit; text-decoration: none;}
+        
+        a:hover {
+            cursor: pointer;
+            font-weight: 500;
+        } 
+    .square {
+        height: 50px;
+        width: 100%;
+        background-color: #3c3c3c;
+        position:sticky;
+        top:60px;
+        
+    }
+
+    .containerbackground {
+        margin: 3rem;
+        
+        top: -220px;
+        left: -40px;
+        bottom: 0;
+        z-index: -5;
+        mix-blend-mode: multiply;
+    }
+
+   
+    button {
+        border: none;
+        cursor: pointer;
+        background-color: #f6f6f6;
+    }
+ 
+    .lot{
+        padding-right: 30%;
+    }
+
+body{
+    
+    background-color: #f6f6f6;
+}
+
+/* CSS */
+.button-59 {
+    
+  align-items: center;
+  background-color: #7161ef;
+  box-sizing: border-box;
+  color: #f6f6f6;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: Inter,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  justify-content: center;
+  letter-spacing: -.8px;
+  line-height: 24px;
+  min-width: 140px;
+  outline: 0;
+  padding: 0 17px;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+
+
+
+.button-59:hover {
+  color: #f6f6f6;
+  background-color: #3c3c3c;
+}
+
+@media (min-width: 768px) {
+  .button-59 {
+    min-width: 170px;
+  }
+}
+.title{
+    position: fixed;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    z-index: -1;
+
+
+}
+.title1{
+    position: fixed;
+    top: -13px;
+    left: 70px;
+    width: 90%;
+    height: 100%;
+    object-fit: cover; 
+    z-index: -1;
+    mix-blend-mode: hard-light;
+
+}
+
+
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background: #100721;
+  font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+
+
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  gap: 10px;
+
+  > div {
+    flex: 0 0 300px;
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+   
+    position: relative;
+    overflow: hidden;
+
+    &:nth-of-type(1) {
+      background: url('https://cdn.mos.cms.futurecdn.net/3VJNxfAGw54vBocFeH8ejG-1200-80.jpg')
+        no-repeat 50% / cover;
+    }
+    &:nth-of-type(2) {
+      background: url("https://e2grow.com/assets/corpo/img/logos/stacks/html5.svg")
+        no-repeat 50% / cover;
+    }
+    &:nth-of-type(3) {
+      background: url("https://play-lh.googleusercontent.com/f0EdtdJrTqt_oas5V3II07gDzASkgHMcSpgRDOb4ETEKNMcAcTVqNB_MZBFQxdeHZVe8")
+        no-repeat 50% / cover;
+    }
+    &:nth-of-type(4) {
+      background: url("https://s3-alpha.figma.com/hub/file/697598809/ce5e0bb3-16b9-4d88-9bca-7d237fe725a8-cover.png")
+        no-repeat 50% / cover;
+    }
+
+    .content {
+      font-size: 1.5rem;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      padding: 15px;
+      opacity: 0;
+      flex-direction: column;
+      height: 100%;
+      justify-content: flex-end;
+      background: #3c3c3c;
+      background: linear-gradient(
+        0deg,
+        #353535 0%,
+        rgba(255, 255, 255, 0) 100%
+      );
+      transform: translatey(100%);
+      transition: opacity 0.5s ease-in-out, transform 0.5s 0.2s;
+      visibility: hidden;
+
+      span {
+        display: block;
+        margin-top: 5px;
+        font-size: 1.2rem;
+      }
+    }
+
+    &:hover {
+      flex: 0 0 400px;
+      box-shadow: 1px 3px 15px #3c3c3c#7645d8;
+      transform: translatey(-30px);
+    }
+
+    &:hover .content {
+      opacity: 1;
+      transform: translatey(0%);
+      visibility: visible;
+    }
+  }
+}
+
+.cals{
+    padding-top: 200px;
+}
+
+h2{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+  
+    color: #3c3c3c;
+}
+
+h3{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 40px;
+  
+    color: #f6f6f6;
+}
+
+h4{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+   
+  
+    color: #f6f6f6;
+}
+
+.info{
+    position: fixed;
+mix-blend-mode:  hard-light;
+    left: 0;
+
+    height: auto;
+    object-fit: cover; 
+    z-index: -1;
+
+}
+.one{
+    width:auto;
+}
+.two{
+    width:auto;
+    height:100%;
+}
+.three{
+    width:auto;
+    height:100%;
+}
+.column {
+    align-items: left;
+    float: left;
+    width: 33.33%;
+    height: auto;
+
+    
+  }
+  
+  /* Clear floats after the columns */
+  .one:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: auto;
+    }
+  }
+  .phot{
+    height: auto;
+    width: 100%;
+    object-fit: cover; 
+
+  }
+  hname{
+    font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 800;
+        font-style: normal;
+        font-size: 70px;
+        line-height: 50px;
+        color:#3c3c3c;
+  }
+
+ 
+
+  
