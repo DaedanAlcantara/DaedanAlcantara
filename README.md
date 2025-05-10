@@ -1,5 +1,5 @@
 
-<span style=" font-family: Neue Montreal Black; font-size: 2em;">Reach Further, Reach Higher</span>
+# Reach Further, Reach Higher
 
 ## 🐤 About Me
 I am Daedan Alcantara, a Computer Science student. \
