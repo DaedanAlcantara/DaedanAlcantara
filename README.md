@@ -6,9 +6,7 @@ I am Daedan Alcantara, a Computer Science student. \
 Currently mastering advanced programming and systemic UI. \
 Graphic Designer, Motion Graphics, Video Editor, Programming 
 
-![DaedanAlcantara's Github Stats](https://github-readme-stats.vercel.app/api?DaedanAlcantara=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?DaedanAlcantara=marieemoiselle&layout=compact&theme=bear) <br/>
+![DaedanAlcantara's Github Stats](https://github-readme-stats.vercel.app/api?username=DaedanAlcantara&show_icons=true&theme=bear)
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaedanAlcantara&layout=compact&theme=bear)
 
